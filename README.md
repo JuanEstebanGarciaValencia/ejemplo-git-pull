@@ -1,1 +1,1 @@
-# ejemplo-git-pull
+Prepositorio para trabajar git pull
